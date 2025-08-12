@@ -102,11 +102,6 @@
 </p>
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meenajii2004&show_icons=true&locale=en" alt="meenajii2004" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenajii2004&" alt="meenajii2004" />
-</p>
+
 
