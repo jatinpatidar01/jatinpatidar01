@@ -1,26 +1,26 @@
 <!---
 meenajii2004/meenajii2004 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m Harshvardhan Meena @meenajii2004
+- 👋 Hi, I’m Jatin Patidar @jatinpatidar01
 - 👀 I’m interested in Learning new teachnology
-- 🌱 I’m currently learning frontend ,DSA with Java and blockchain.
+- 🌱 I’m currently learning frontend ,DSA with C++.
 - 💞 I’m looking to collaborate on a open project for block chain based voting website.
-- 📫 You can contact me meenaharsh909@gmail.com
+- 📫 You can contact me jatinpatidar01234@gmail.com
 
 ---> 
 
-<h1 align="center">Hi 👋, I'm Harshvardhan Meena</h1>
+<h1 align="center">Hi 👋, I'm Jatin Patidar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenajii2004&label=Profile%20views&color=0e75b6&style=flat" alt="meenajii2004" /> </p>
 
-- 🌱 I’m currently learning *MERN , Blockchain , Video Editing*
+- 🌱 I’m currently learning *MERN , DSA *
 
-- 💬 Ask me about *React , DSA , Blockchain , Video Editing*
+- 💬 Ask me about *React , DSA*
 
-- 📫 How to reach me *meenaharsh909@gmail.com , meenaharshvardhan006@gmail.com*
+- 📫 How to reach me *jatinpatidar01234@gmail.com*
 
 - ⚡Fun Fact : *I am Booooooooring 😒*
 
