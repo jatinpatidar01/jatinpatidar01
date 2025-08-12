@@ -101,9 +101,6 @@
   <img src="https://fakeimg.pl/350x150/0e75b6/ffffff?text=C%2B%2B%20-%2047%25&font=lobster" alt="C++ Stats"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenajii2004&show_icons=true&locale=en&layout=compact" alt="meenajii2004" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=meenajii2004&show_icons=true&locale=en" alt="meenajii2004" />
